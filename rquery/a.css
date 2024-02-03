@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'vaziro';
+    src: url('./Fonts/IranSens.ttf');
+}
+*{
+    font-family: vaziro
+}
